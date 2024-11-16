@@ -2,7 +2,7 @@ USE covid19;
 
 /* mortality_rate
 What countries have the highest excess mortality rates per million people?
-How do COVID-19 mortality rates compare across different age demographics 
+
 Is there a relationship between GDP per capita and COVID-19 death rates?
 */
 
